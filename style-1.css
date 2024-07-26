@@ -3,6 +3,15 @@
     padding: 0;
 }
 
+.cabecalho {
+background-color: #2B5933;
+color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+
 body{
         font-family: "Poppins", sans-serif;
         font-weight: 400;
