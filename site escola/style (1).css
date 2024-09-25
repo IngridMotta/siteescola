@@ -21,3 +21,22 @@ width: 20%;
     margin: 0 16px ;
     font-size: 24px;
 }
+
+.ecola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#37873A, #2B5933);
+    color: white;
+    display: flex;   
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 55%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
