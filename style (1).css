@@ -66,3 +66,13 @@ color: white;
     display: grid;
     grid-template-columns: 10% 30% 30% 20% 20%;
 }
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    
+}
